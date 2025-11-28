@@ -92,7 +92,7 @@ Ranking:
 
 The program is organized into modules:
 
-'''
+```
 FinancialToolkit.ipynb  
 ├── secure input handlers  
 ├── Section A  
@@ -101,7 +101,7 @@ FinancialToolkit.ipynb
 ├── Section B  
 │   └── wallet and expense analyzer  
 └── main (main menu and flow)
-'''
+```
 
 The notebook contains 5 cells in total:  
   1. Input validation functions  
