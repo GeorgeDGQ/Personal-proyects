@@ -1,4 +1,4 @@
-# Financial Toolkit in Python (Beginner Level)
+# Financial Toolkit in Python (Basic)
 
 This project implements a mini financial system divided into three main modules:
   1. Investment calculator (compound interest)
